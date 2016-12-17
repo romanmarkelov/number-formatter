@@ -1,0 +1,29 @@
+{
+  "name": "number-formatter",
+  "version": "0.0.1",
+  "description": "number formatter",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --reporter nyan"
+  },
+  "engines": {
+    "node": ">=4.2.4"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webmarkelov/number-formatter.git"
+  },
+  "keywords": [
+    "number-formatter"
+  ],
+  "author": "Roman Markelov <webmarkelov@gmail.com> (https://webmarkelov.github.io)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/webmarkelov/number-formatter/issues"
+  },
+  "homepage": "https://github.com/webmarkelov/number-formatter#readme",
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0"
+  }
+}
