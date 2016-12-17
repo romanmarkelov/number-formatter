@@ -1,4 +1,4 @@
-Number Formatter
+Number Formatter [![Build Status](https://travis-ci.org/webmarkelov/number-formatter.svg?branch=master)](https://travis-ci.org/webmarkelov/number-formatter)
 =========
 
 A small library that adds commas to numbers
