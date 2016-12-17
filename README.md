@@ -5,11 +5,11 @@ A small library that adds commas to numbers
 
 ## Installation
 
-  `npm install @webmarkelov/number-formatter`
+  `npm install @webmarkelov/webmarkelov-number-formatter`
 
 ## Usage
 
-    var numFormatter = require('@webmarkelov/number-formatter');
+    var numFormatter = require('@webmarkelov/webmarkelov-number-formatter');
 
     var formattedNum = numFormatter(35666);
   
